@@ -15,6 +15,7 @@ h2 {
 
 .completed {
   font-family: Garien;
+  font-size: 12px;
 }
 
 #tasks .completed {
